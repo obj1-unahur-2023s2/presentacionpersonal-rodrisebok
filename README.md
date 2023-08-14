@@ -27,11 +27,11 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Rodrigo Sebok 
 
-Me gusta ...
+Me gusta la gastronomia, la informatica y la musica
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de administrativo en la clinica modelo de moron
 
 Les dejo una imagen mía 
 
